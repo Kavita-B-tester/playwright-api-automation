@@ -1,0 +1,15 @@
+{
+  "name": "playwright-api-automation",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "prettier": "^3.3.1",
+    "vite": "^5.1.6"
+  }
+}
